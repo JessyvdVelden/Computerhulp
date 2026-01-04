@@ -1,4 +1,4 @@
-site_name: Skir
+site_name: TechHulp Voorne
 site_url: https://skirvanderjagt07-pixel.github.io/Computerhulp/
 theme:
   name: material
@@ -55,7 +55,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/instagram
-      link: https://x.com/squidfunk
+      link: https://www.instagram.com/skirvdj/
 nav:
   - Home: index.md
   - Diensten: diensten.md
