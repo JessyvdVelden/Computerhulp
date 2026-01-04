@@ -5,7 +5,7 @@ Hulp bij computers, laptops, printers, telefoons, tablets en e-mail.
 Loopt u ergens vast met een probleem of vraag?
 Ik help u snel en rustig verder, zonder moeilijke termen en zonder onnodige kosten.
 
-Maak direct een [afspraak](https://skirvanderjagt07-pixel.github.io/Computerhulp/afspraak/).
+👉 Maak direct een [afspraak](https://skirvanderjagt07-pixel.github.io/Computerhulp/afspraak/).
 
 ## Waarmee ik u kan helpen:
 - Computer of laptop werkt traag of start niet op
