@@ -21,6 +21,6 @@ Mijn doel is altijd dat **alles weer werkt** en dat u begrijpt wat er gedaan is.
 - **Snelle reacties** op uw berichten of telefoontjes  
 
 ## Klaar om geholpen te worden?
-[Maak direct een afspraak](https://skirvanderjagt07-pixel.github.io/Computerhulp/afspraak/)
+👉 [Maak direct een afspraak](https://skirvanderjagt07-pixel.github.io/Computerhulp/afspraak/)
 
 Heeft u eerst een vraag? Geen probleem, u kunt ook gewoon [contact opnemen](https://skirvanderjagt07-pixel.github.io/Computerhulp/contact/) via telefoon, whatsapp of e-mail.
