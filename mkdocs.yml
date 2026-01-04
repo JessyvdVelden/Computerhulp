@@ -51,6 +51,10 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://x.com/squidfunk
 nav:
   - Home: index.md
   - Diensten: diensten.md
