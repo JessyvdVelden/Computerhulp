@@ -3,5 +3,5 @@ Heb je een vraag of wil je een [afspraak](https://skirvanderjagt07-pixel.github.
 
 ## Ik ben bereikbaar via:
 - E-mail: skir.vanderjagt@gmail.com
-- Telefoon: <a href=”tel:31619237809”>06 19237809</a>
+- Telefoon: [06 19237809](tel:31619237809)
 - [WhatsApp](https://wa.me/31619237809)
