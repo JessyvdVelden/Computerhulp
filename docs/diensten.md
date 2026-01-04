@@ -34,5 +34,5 @@ Of het nu gaat om uw computer, laptop, printer, telefoon of e-mail: ik bied **sn
 
 ## Afspraak maken
 Wilt u direct geholpen worden?  
-[Plan hier een afspraak](https://skirvanderjagt07-pixel.github.io/Computerhulp/afspraak/)
+👉 [Plan hier een afspraak](https://skirvanderjagt07-pixel.github.io/Computerhulp/afspraak/)
 
