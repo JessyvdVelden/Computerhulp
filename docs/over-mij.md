@@ -1,6 +1,6 @@
 # Over mij
 
-Hallo! Mijn naam is **Skir van der Jagt** en ik help particulieren in **Oostvoorne & Brielle** met hun computers, laptops, printers, telefoons en e-mailproblemen.
+Hallo! Mijn naam is **Skir van der Jagt** en ik ben 18 jaar oud. Ik help particulieren in **Oostvoorne & Brielle** met hun computers, laptops, printers, telefoons en e-mailproblemen.
 
 Ik begrijp dat techniek soms verwarrend kan zijn, en dat het frustrerend is als iets niet werkt. Daarom bied ik **persoonlijke en duidelijke hulp**, zonder moeilijke termen, met een rustige uitleg en praktische oplossingen.
 
