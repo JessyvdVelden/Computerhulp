@@ -14,3 +14,6 @@ Geen verrassingen, gewoon duidelijke prijzen voor snelle, persoonlijke hulp.
 ## Minimale tijd
 - **Starttarief**: 60 minuten  
 - Afspraken die korter duren worden altijd afgerond naar **60 minuten**.
+
+## Betaalopties
+U kunt mij betalen via een **Tikkie/Bankoverschrijving** of met **contant geld**.
