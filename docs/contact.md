@@ -6,7 +6,7 @@ Heb je een vraag of wil je een [afspraak](https://skirvanderjagt07-pixel.github.
 - Telefoon: [06 19237809](tel:31619237809)
 - [WhatsApp](https://wa.me/31619237809)
 
-Ik probeer berichten/e-mails zo snel mogelijk te beantwoorden, meestal binnen 4 uur.
+Ik probeer berichten/e-mails zo snel mogelijk te beantwoorden, meestal binnen 4 uur. Als ik de telefoon niet opneem, bel ik u zo snel mogelijk terug.
 
 ## Werkgebied
 Ik bied hulp aan in **Oostvoorne & Brielle**.  
