@@ -1,5 +1,5 @@
 # Contact opnemen
-Heb je een vraag of wil je een [afspraak](https://skirvanderjagt07-pixel.github.io/Computerhulp/afspraak/) maken? Neem gerust contact op.
+Heeft u een vraag of wilt u een [afspraak](https://skirvanderjagt07-pixel.github.io/Computerhulp/afspraak/) maken? Neem gerust contact op.
 
 ## Ik ben bereikbaar via:
 - E-mail: [skir.vanderjagt@gmail.com](mailto:skir.vanderjagt@gmail.com)
@@ -10,4 +10,4 @@ Ik probeer berichten/e-mails zo snel mogelijk te beantwoorden, meestal binnen 4 
 
 ## Werkgebied
 Ik bied hulp aan in **Oostvoorne & Brielle**.  
-Twijfel je of ik je kan helpen? Neem gerust contact op.
+Twijfelt u of ik u kan helpen? Neem gerust contact op.
