@@ -5,3 +5,9 @@ Heb je een vraag of wil je een [afspraak](https://skirvanderjagt07-pixel.github.
 - E-mail: [skir.vanderjagt@gmail.com](mailto:skir.vanderjagt@gmail.com)
 - Telefoon: [06 19237809](tel:31619237809)
 - [WhatsApp](https://wa.me/31619237809)
+
+Ik probeer berichten/e-mails zo snel mogelijk te beantwoorden, meestal binnen 4 uur.
+
+## Werkgebied
+Ik bied hulp aan in **Oostvoorne & Brielle**.  
+Twijfel je of ik je kan helpen? Neem gerust contact op.
