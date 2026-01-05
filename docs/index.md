@@ -24,6 +24,4 @@ Neem gerust [contact](https://skirvanderjagt07-pixel.github.io/Computerhulp/cont
 - Rustige uitleg, ook als u weinig technische kennis hebt
 - U weet altijd waar u aan toe bent.
 
-## Liever eerst overleggen?
-Dat kan natuurlijk ook.
-Stuur een [bericht via WhatsApp](https://wa.me/31619237809) of [bel mij](tel:31619237809) gerust.
+Stuur mij gerust een [bericht via WhatsApp](https://wa.me/31619237809) of [bel mij](tel:31619237809).
