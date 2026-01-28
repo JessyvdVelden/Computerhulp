@@ -8,6 +8,7 @@ Of het nu gaat om uw computer, laptop, telefoon: ik bied **snelle, persoonlijke 
 - Software installeren of updaten  
 - Virus- of malwareproblemen  
 - Advies voor onderhoud en snelheid
+- Herinstallatie van Windows
 
 ## Telefoon & Tablet
 - Telefoon/tablet instellen  
