@@ -21,4 +21,4 @@ Neem gerust [contact](https://jessyvdvelden.github.io/Computerhulp/contact/) op,
 - Uitleg in begrijpelijke taal, ook als u weinig technische kennis hebt
 - U weet altijd waar u aan toe bent bij Computatrum
 
-### Stuur mij gerust een [bericht via WhatsApp](https://wa.me/31627527204) of [bel mij](tel:31627527204).
+### Stuur mij gerust een [bericht via WhatsApp](https://wa.me/31627527204) of bel mij via 0627527204.
