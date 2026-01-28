@@ -1,6 +1,6 @@
 # Diensten
-Bij **TechHulp Voorne** help ik u met allerlei technische problemen.  
-Of het nu gaat om uw computer, laptop, printer, telefoon of e-mail: ik bied **snelle, persoonlijke en duidelijke hulp**.
+Bij **Computatrum** help ik u met allerlei technische problemen.  
+Of het nu gaat om uw computer, laptop, telefoon: ik bied **snelle, persoonlijke en duidelijke hulp**.
 
 ## Computer & Laptop
 - Computer start niet of werkt traag  
@@ -8,12 +8,6 @@ Of het nu gaat om uw computer, laptop, printer, telefoon of e-mail: ik bied **sn
 - Software installeren of updaten  
 - Virus- of malwareproblemen  
 - Advies voor onderhoud en snelheid
-
-## Printerproblemen
-- Printer installeren of verbinden met uw netwerk  
-- Printproblemen oplossen (geen print, foutmeldingen)  
-- Cartridge vervangen / instellingen controleren  
-- Netwerkprinters instellen
 
 ## Telefoon & Tablet
 - Telefoon/tablet instellen  
@@ -24,7 +18,7 @@ Of het nu gaat om uw computer, laptop, printer, telefoon of e-mail: ik bied **sn
 ## E-mail & Internet
 - E-mail accounts instellen of herstellen  
 - Wachtwoorden en spamproblemen oplossen  
-- Wifi en netwerkproblemen  
+- Netwerkproblemen  
 - Hulp bij cloudopslag en bestanden
 
 ## Installatie & Uitleg
@@ -34,5 +28,5 @@ Of het nu gaat om uw computer, laptop, printer, telefoon of e-mail: ik bied **sn
 
 ## Afspraak maken
 Wilt u direct geholpen worden?  
-👉 [Plan hier een afspraak](https://skirvanderjagt07-pixel.github.io/Computerhulp/afspraak/)
+👉 [Plan hier een afspraak](https://jessyvdvelden.github.io/Computerhulp/afspraak/)
 
