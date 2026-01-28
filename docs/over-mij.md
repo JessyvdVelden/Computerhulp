@@ -1,15 +1,14 @@
 # Over mij
 
-Hallo! Mijn naam is **Skir van der Jagt** en ik ben 18 jaar oud. Ik help particulieren in **Oostvoorne & Brielle** met hun computers, laptops, printers, telefoons en e-mailproblemen.
+Hallo! Mijn naam is **Jessy van der Velden** en ik ben 27 jaar oud. Ik help particulieren in de gemeente **Venlo** met hun computers, laptops, telefoons en internet problemen.
 
 Ik begrijp dat techniek soms verwarrend kan zijn, en dat het frustrerend is als iets niet werkt. Daarom bied ik **persoonlijke en duidelijke hulp**, zonder moeilijke termen, met een rustige uitleg en praktische oplossingen.
 
 ## Mijn diensten
 ### Ik help onder andere met:
 - Computer- en laptopproblemen  
-- Printerproblemen en installatie  
 - Telefoon- en tabletproblemen  
-- E-mail- en internetproblemen  
+- Internetproblemen  
 - Software installeren en uitleg geven  
 
 Mijn doel is altijd dat **alles weer werkt** en dat u begrijpt wat er gedaan is.
@@ -21,6 +20,6 @@ Mijn doel is altijd dat **alles weer werkt** en dat u begrijpt wat er gedaan is.
 - **Snelle reacties** op uw berichten of telefoontjes  
 
 ## Klaar om geholpen te worden?
-👉 [Maak direct een afspraak](https://skirvanderjagt07-pixel.github.io/Computerhulp/afspraak/)
+👉 [Maak direct een afspraak](https://jessyvdvelden.github.io/Computerhulp/contact/)
 
-Heeft u eerst een vraag? Geen probleem, u kunt ook gewoon [contact opnemen](https://skirvanderjagt07-pixel.github.io/Computerhulp/contact/) via telefoon, whatsapp of e-mail.
+Heeft u eerst een vraag? Geen probleem, u kunt ook gewoon [contact opnemen](https://jessyvdvelden.github.io/Computerhulp/contact/) via telefoon, whatsapp.
