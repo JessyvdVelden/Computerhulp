@@ -1,5 +1,5 @@
-site_name: TechHulp Voorne
-site_url: https://techhulpvoorne.nl
+site_name: Computatrum
+site_url: https://computatrum.nl
 theme:
   name: material
   custom_dir: material/overrides
