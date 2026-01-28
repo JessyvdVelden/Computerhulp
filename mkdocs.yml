@@ -42,16 +42,11 @@ theme:
     code: Roboto Mono
 extra:
   social:
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/skirvdj/
-    - icon: fontawesome/brands/discord
-      link: https://discord.com/users/665254531361275917
     - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/skir.vanderjagt
+      link: https://www.facebook.com/computatrumvenlo
 nav:
   - Home: index.md
   - Diensten: diensten.md
   - Tarieven: tarieven.md
-  - Afspraak maken: afspraak.md
   - Over mij: over-mij.md
   - Contact: contact.md
