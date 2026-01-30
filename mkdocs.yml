@@ -1,5 +1,5 @@
 site_name: Computatrum
-site_url: https://computatrum.nl
+site_url: https://jessyvdvelden.github.io/Computerhulp/
 theme:
   name: material
   custom_dir: material/overrides
